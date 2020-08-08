@@ -19,15 +19,14 @@
 
 #### Backend
 
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png?raw=true" alt="Node" width="200" height="160"> &nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png?raw=true" alt="Node" width="200" height="200"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg?raw=true" alt="Spring Boot" width="120" height="120"> &nbsp;&nbsp;&nbsp;
 <img src="https://rubyonrails.org/images/rails-logo.svg?raw=true" alt="Ruby on Rails" width="120" height="120">
 
 #### CI/CD - DevOPS
 
 <img src="https://www.jenkins.io/images/logo-title-opengraph.png?raw=true" alt="Jenkins" width="160" height="120">&nbsp;&nbsp;&nbsp;
-<img src="https://www2.circleci.com/rs/485-ZMH-626/images/circle-logo-horizontal-white.png?raw=true" alt="CircleCI" width="220" height="120">&nbsp;&nbsp;&nbsp;
+<img src="https://s2-cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/269/100/original/Greenhouse-thumb-LinkedIn-1200x627.png?1583788001?raw=true" alt="CircleCI" width="220" height="120">&nbsp;&nbsp;&nbsp;
 <img src="https://i1.wp.com/build5nines.com/wp-content/uploads/2017/09/Azure.png?resize=519%2C387&ssl=1?raw=true" alt="Azure" width="120" height="120">
 
 <br/>
