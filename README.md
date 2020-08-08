@@ -14,8 +14,8 @@
 
 #### Frontend
 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg?raw=true" alt="Angular" width="160" height="160">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg?raw=true" alt="React" width="160" height="160">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg?raw=true" alt="Angular" width="160" height="160">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg?raw=true" alt="React" width="140" height="140">
 
 #### Backend
 
