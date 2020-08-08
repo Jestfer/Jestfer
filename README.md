@@ -2,11 +2,11 @@
 
 #### I am a full-stack JS developer that believes in collaborative environments as a way to grow and build exceptional, high-quality and performant websites and apps.
 
-<img src="./assets/social/LI-In-Bug.png?raw=true" alt="linkedin" width="20" height="20"/> [josueestevezfernandez](https://www.linkedin.com/in/josueestevezfernandez/)
+<img src="https://github.com/Jestfer/Jestfer/blob/master/assets/social/LI-In-Bug.png?raw=true" alt="linkedin" width="20" height="20"/> [josueestevezfernandez](https://www.linkedin.com/in/josueestevezfernandez/)
 
-<img src="./assets/social/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" width="20" height="20"/> [@JosuEsfern](https://twitter.com/JosuEsfern)
+<img src="https://github.com/Jestfer/Jestfer/blob/master/assets/social/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" width="20" height="20"/> [@JosuEsfern](https://twitter.com/JosuEsfern)
 
-<img src="./assets/social/Medium.png" alt="twitter" width="20" height="20"/> [@Jestfer](https://medium.com/@Jestfer)
+<img src="https://github.com/Jestfer/Jestfer/blob/master/assets/social/Medium.png" alt="medium" width="20" height="20"/> [@Jestfer](https://medium.com/@Jestfer)
 
 <br/>
 
