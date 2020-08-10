@@ -16,6 +16,7 @@
 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg?raw=true" alt="Angular" width="160" height="160">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg?raw=true" alt="React" width="140" height="140">
+<img src="https://vuejs.org/images/logo.png?raw=true" alt="React" width="120" height="120">
 
 #### Backend
 
