@@ -36,6 +36,8 @@
 
 #### [Dev Team Up](https://github.com/Jestfer/dev-team-up/tree/develop)
 
+#### [Learning](https://github.com/Jestfer/learning)
+
 <br/>
 
 ## 📫 How to reach me:
